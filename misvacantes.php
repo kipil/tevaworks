@@ -38,10 +38,10 @@
 
       <div class="navbar">
         <ul clas="nav__ul">
-          <li class="nav__li"><a href="planesFacturas.html">Planes y facturas</a></li>
-          <li class="nav__li"><a href="busquedacv.html">Busquedas de CV'S</a></li>
-          <li class="nav__li"><a href="vacantes.html">Publicar vacantes</a></li>
-          <li class="nav__li"><a href="misvacantes.html">Mis vacantes</a></li>
+          <li class="nav__li"><a href="planesFacturas.php">Planes y facturas</a></li>
+          <li class="nav__li"><a href="busquedacv.php">Busquedas de CV'S</a></li>
+          <li class="nav__li"><a href="vacantes.php">Publicar vacantes</a></li>
+          <li class="nav__li"><a href="misvacantes.php">Mis vacantes</a></li>
         </ul>
       </div>
 
@@ -52,7 +52,7 @@
             Mi Cuenta
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="IndexEmpresa.html">Mi Perfil</a>
+            <a class="dropdown-item" href="IndexEmpresa.php">Mi Perfil</a>
             <a class="dropdown-item" href="#">Cambiar Contraseña</a>
             <a class="dropdown-item" href="#">Cerrar Sesión</a>
           </div>
