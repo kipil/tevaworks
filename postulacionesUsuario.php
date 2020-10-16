@@ -42,14 +42,14 @@
     <header class="header">
       <nav class="menu_empresa ">
         <div class="logoEmpresa">
-          <li class="nav__li"><a href="index.html">LOGOTIPO</a></li>
+          <li class="nav__li"><a href="index.php">LOGOTIPO</a></li>
         </div>
   
         <div class="navbar">
           <ul clas="nav__ul">
-            <li class="nav__li"><a href="busquedaEmpleo.html">Buscar Empleo</a></li>
-            <li class="nav__li"><a href="cvUsuario.html">Mi CV</a></li>
-            <li class="nav__li"><a href="postulacionesUsuario.html">Mis Postulaciones</a></li>
+            <li class="nav__li"><a href="busquedaEmpleo.php">Buscar Empleo</a></li>
+            <li class="nav__li"><a href="cvUsuario.php">Mi CV</a></li>
+            <li class="nav__li"><a href="postulacionesUsuario.php">Mis Postulaciones</a></li>
           </ul>
         </div>
   
@@ -60,7 +60,7 @@
               Mi Cuenta
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="usuarioIndex.html">Mi Perfil</a>
+              <a class="dropdown-item" href="usuarioIndex.php">Mi Perfil</a>
               <a class="dropdown-item" href="#">Cambiar Contraseña</a>
               <a class="dropdown-item" href="#">Cerrar Sesión</a>
             </div>
