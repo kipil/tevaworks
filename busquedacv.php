@@ -43,9 +43,9 @@
       <div class="navbar">
         <ul clas="nav__ul">
           <li class="nav__li"><a href="#">Planes y facturas</a></li>
-          <li class="nav__li"><a href="busquedacv.html">Busquedas de CV'S</a></li>
-          <li class="nav__li"><a href="vacantes.html">Publicar vacantes</a></li>
-          <li class="nav__li"><a href="misvacantes.html">Mis vacantes</a></li>
+          <li class="nav__li"><a href="busquedacv.php">Busquedas de CV'S</a></li>
+          <li class="nav__li"><a href="vacantes.php">Publicar vacantes</a></li>
+          <li class="nav__li"><a href="misvacantes.php">Mis vacantes</a></li>
         </ul>
       </div>
 
